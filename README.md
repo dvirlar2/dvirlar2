@@ -11,7 +11,7 @@ I help contribute to the open data science community by curating the metadata of
 Current projects include training and overseeing our team of interns; editing our living training document; writing functions to make our workflows more efficient; and curating metadata! So much metadata.  
 
 ### ✍️ Experience
-- 2021 - Present: Projects Data Coordinator ([NCEAS](https://nceas.ucsb.edu))
+- 2022 - Present: Projects Data Coordinator ([NCEAS](https://nceas.ucsb.edu))
 - 2020 - 2021: Environmental Planner ([Rincon Consultants](https://www.rinconconsultants.com/))
 - 2019 - 2020: Graduate Research Assistant 
 
