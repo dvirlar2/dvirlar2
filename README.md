@@ -8,7 +8,7 @@
 I help contribute to the open data science community by curating the metadata of datasets submitted to the [Arctic Data Center](https://arcticdata.io/) repository! Generally, this is done by editing metadata documents using the [Ecological Metadata Language](https://eml.ecoinformatics.org/) (EML), which describes the *who, what, where, when, why, and how* of a dataset. By curating metadata, the Arctic Data Center helps ensure that data are findable, accessible, interoperable, and reusable by others.
 
 ### 🌱 What am I up to?
-Current projects include training and overseeing our team of interns; editing our living training document; writing functions to make our workflows more efficient; and curating metadata! So much metadata.  
+Current projects include training and overseeing our team of interns; editing our living training document; writing functions to make our workflows more efficient; and curating metadata! So much metadata. 
 
 ### ✍️ Experience
 - 2022 - Present: Projects Data Coordinator ([NCEAS](https://nceas.ucsb.edu))
@@ -19,7 +19,10 @@ Current projects include training and overseeing our team of interns; editing ou
 - 2020: Master of Environmental Science and Management (Bren School, UC Santa Barbara)
 - 2017: Bachelor of Arts; Ecology & Evolutionary Biology (University of Colorado Boulder)
 
-
+### 🧐 Socials
+- 💻 [dvirlar2.github.io](https://dvirlar.github.io) is my personal website.
+- 🐦 You can find me on twitter here: [@dvirlar2](https://twitter.com/dvirlar2). 
+- 💬 You can also find me on [LinkedIn](https://www.linkedin.com/in/dvirlar)
 <!--
 **dvirlar2/dvirlar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
