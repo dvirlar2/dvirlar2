@@ -20,7 +20,7 @@ Current projects include training and overseeing our team of interns; editing ou
 - 2017: Bachelor of Arts; Ecology & Evolutionary Biology (University of Colorado Boulder)
 
 ### 🧐 Socials
-- 💻 [dvirlar2.github.io](https://dvirlar.github.io) is my personal website.
+- 💻 [dvirlar2.github.io](https://dvirlar2.github.io) is my personal website.
 - 🐦 You can find me on twitter here: [@dvirlar2](https://twitter.com/dvirlar2). 
 - 💬 You can also find me on [LinkedIn](https://www.linkedin.com/in/dvirlar)
 <!--
