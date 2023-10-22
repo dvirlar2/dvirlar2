@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there! 👋<br>
   I'm Daphne Virlar-Knight </h1>
 
-<h3 align="center"> Projects Data Coordinator at the National Center for Ecological Analysis and Synthesis </h3>
+<h3 align="center"> Project Manager at the National Center for Ecological Analysis and Synthesis </h3>
 <br>
 
 ### ❄️ What do I actually do?
