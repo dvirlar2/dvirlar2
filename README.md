@@ -5,10 +5,11 @@
 <br>
 
 ### ❄️ What do I actually do?
-I help contribute to the open data science community by curating the metadata of datasets submitted to the [Arctic Data Center](https://arcticdata.io/) repository! Generally, this is done by editing metadata documents using the [Ecological Metadata Language](https://eml.ecoinformatics.org/) (EML), which describes the *who, what, where, when, why, and how* of a dataset. By curating metadata, the Arctic Data Center helps ensure that data are findable, accessible, interoperable, and reusable by others.
+Currently at NCEAS, I manage two nascent projects: (1) Creating an index of community resilience to wildfire across the Western U.S. and Canada, and (2) quantifying the amount of digital tools used to remotely collect information across ecosystems. My role is to make sure these projects go from "neat concept" to "viable product" within a two-year time period, and without letting the scope creep out of control. <!-- Across these projects, I lead four data analysts, a web developer, and a communications and policy officer. -->
 
-### 🌱 What am I up to?
-Current projects include training and overseeing our team of interns; editing our living training document; writing functions to make our workflows more efficient; and curating metadata! So much metadata. 
+
+<!-- ### 🌱 What am I up to?
+Current projects include training and overseeing our team of interns; editing our living training document; writing functions to make our workflows more efficient; and curating metadata! So much metadata. -->
 
 ### ✍️ Experience
 - 2023 - Present: Project Manager ([NCEAS](https://nceas.ucsb.edu))
