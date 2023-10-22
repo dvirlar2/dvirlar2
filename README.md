@@ -4,7 +4,7 @@
 <h3 align="center"> Project Manager at the National Center for Ecological Analysis and Synthesis </h3>
 <br>
 
-### ❄️ What do I actually do?
+### 🔥 What do I actually do?
 Currently at NCEAS, I manage two nascent projects: (1) Creating an index of community resilience to wildfire across the Western U.S. and Canada, and (2) quantifying the amount of digital tools used to remotely collect information across ecosystems. My role is to make sure these projects go from "neat concept" to "viable product" within a two-year time period, and without letting the scope creep out of control. <!-- Across these projects, I lead four data analysts, a web developer, and a communications and policy officer. -->
 
 
