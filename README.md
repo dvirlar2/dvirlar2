@@ -12,7 +12,8 @@ Currently at NCEAS, I manage two nascent projects: (1) Creating an index of comm
 Current projects include training and overseeing our team of interns; editing our living training document; writing functions to make our workflows more efficient; and curating metadata! So much metadata. -->
 
 ### ✍️ Experience
-- 2023 - Present: Project Manager ([NCEAS](https://nceas.ucsb.edu))
+- 2024 - Present: Sustainability Consultant ([Spirit Consultants](https://spiritenv.com/))
+- 2023 - 2024: Project Manager ([NCEAS](https://nceas.ucsb.edu))
 - 2022 - 2023: Projects Data Coordinator ([NCEAS](https://nceas.ucsb.edu))
 - 2020 - 2021: Environmental Planner ([Rincon Consultants](https://www.rinconconsultants.com/))
 
